@@ -1,0 +1,53 @@
+[
+    {         
+              "id":1,
+              "title": "Tesla Model Y = Top Selling SUV in California in 2021",
+              "image": "https://cleantechnica.com/2022/02/13/tesla-model-y-top-selling-suv-in-california-in-2021/",
+              "keywords": [
+                "Cars",
+                "Clean Transport",
+                "Electric Cars",
+                "Electric Vehicles",
+                "Market Research",
+                "Research",
+                "California",
+                "California EV sales",
+                "EV sales",
+                "Tesla",
+                "Tesla Model 3",
+                "Tesla Model S",
+                "Tesla Model Y",
+                "Tesla sales"
+              ],
+              "pubDate": "2022-02-14 03:24:29",
+              "category": [
+                "business"
+              ]
+            },
+            {
+              "id":2,
+              "title": "Tesla’s next facility in China may be located in Shenyang: local gov’t announcement",
+              "image": "https://www.teslarati.com/tesla-gigafactory-shenyang/",
+              "keywords": [
+                "News",
+                "Featured",
+                "Tesla",
+                "Tesla China",
+                "Tesla Gigafactory"
+              ],
+              "pubDate": "2022-02-14 02:51:31",
+              "category": [
+                "technology",
+                "science"
+              ]
+            },
+            {
+              "id":3,
+              "title": "Risikoarm in die Tesla-Aktie investieren: Ein Tesla-ETF soll dies möglich machen",
+              "image": "https://www.finanzen.net/nachricht/etf/tesla-etf-risikoarm-in-die-tesla-aktie-investieren-ein-tesla-etf-soll-dies-moeglich-machen-11021681",
+              "pubDate": "2022-02-14 02:27:45",
+              "category": [
+                "business"
+              ]
+            }
+        ]
